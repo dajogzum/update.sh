@@ -1,0 +1,2 @@
+# update.sh
+Uaktualnianie modulów
